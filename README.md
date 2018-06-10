@@ -9,7 +9,7 @@
 
 ## Installation
 
-- git clone https://github.com/laravelartisan/chuuti-dot-com-test.git
+- git clone https://github.com/laravelartisan/chhuti-chat-app.git
 - Edit `.env` and set your database connection details
 - run `php artisan key:generate` and `php artisan jwt:secret`
 - `php artisan migrate`
